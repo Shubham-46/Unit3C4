@@ -1,0 +1,28 @@
+#navbar {
+    display: flex;
+}
+
+#results {
+    display: grid;
+    gap: 20px;
+    margin: auto;
+    width: 50%;
+    margin-top: -200px;
+}
+
+.div1 {
+    display: grid;
+    border: 1px solid black;
+    gap: 20px
+}
+
+.img1 {
+    height: 200px;
+    width: 400px;
+}
+
+#sidebar {
+    border: 1px solid red;
+    width: 15%;
+    height: 300px;
+}
